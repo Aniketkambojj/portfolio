@@ -1,4 +1,4 @@
-# BUSINESS ANALYST
+# DATA ANALYST
 
 ## EDUCATION
 Fanshawe College, Canada May 2022 – Dec 2023
